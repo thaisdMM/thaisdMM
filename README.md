@@ -1,4 +1,4 @@
-# Hi, I'm Thais Medeiros! 👋
+# Hi, I'm Thaís Medeiros! 👋
 
 ### About me
 - 🎓 **Lawyer** transitioning into **software development**.
@@ -21,7 +21,7 @@ I am interested in collaborating on open-source projects or beginner-level chall
 - I have a **B1 level** of proficiency in **English**, which allows me to communicate and collaborate internationally.
 
 ### Get in touch with me
-📧 thaisdmedeiros@ygmail.com
+📧 thaisdmedeiros@gmail.com
 
 ---
 
