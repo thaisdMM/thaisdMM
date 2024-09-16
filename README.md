@@ -1,4 +1,4 @@
-# Hi, I'm Thaís Medeiros! 👋
+# Hi, I'm Thaís Moreira! 👋
 
 ### About me
 - 🎓 **Lawyer** transitioning into **software development**.
