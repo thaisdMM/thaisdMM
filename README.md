@@ -1,11 +1,13 @@
-# Hi, I'm Thaís Moreira! 👋
+# Hi, I'm Thaís Moreira! 👋  
 
-### About me
-- 🎓 **Lawyer** transitioning into **software development**.
-- 🚀 Currently learning **front-end** fundamentals, with a focus on **JavaScript**.
-- ☕ I've studied **basic Java** and **programming logic** through a bootcamp module.
-- 👩‍💻 Looking to collaborate on **beginner-friendly** projects that focus on learning and skill development.
+### About Me  
+- 🎓 **Lawyer** transitioning into **software development**.  
+- 🚀 Currently learning **back-end development**, with a focus on **Python**.  
+- ☕ I've studied **basic programming logic**, a bit of **front-end development (HTML, CSS, JavaScript)**, and **basic Java**.  
+  Additionally, I’ve completed **introductory Python courses** through bootcamps and online platforms like Curso em Vídeo and Rocketseat.  
+- 👩‍💻 Looking to collaborate on **beginner-friendly projects** focused on learning and skill development.  
 
+### 📊 GitHub Stats  
 <a href="https://github.com/thaisdMM/github-readme-stats">
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=thaisdMM&show_icons=true&theme=radical" />
 </a>
@@ -13,9 +15,9 @@
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisdMM&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+### 🛠️ Tech Stack  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>  
