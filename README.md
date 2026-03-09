@@ -34,20 +34,12 @@
 
 ---
 
-### 📊 GitHub Stats  
-<div>
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=thaisdMM&show_icons=true&theme=radical" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisdMM&layout=compact&langs_count=8&card_width=320" />
-</div>
-
----
-
 ### Additional Information
 
 All my projects are fully available on my GitHub, while my portfolio website highlights selected work and contains my complete collection of certificates.
-- **Portfolio Website:** [thaisdmm.github.io](https://thaisdmm.github.io/thaisdMM-thaisdMM.github.io/#)
+- **Portfolio Website:** [thaisdmm.github.io](https://thaisdmm.github.io/)
 
 ### Connect with me
 
-- **LinkedIn:** [Thaís de Medeiros Moreira](https://www.linkedin.com/in/tha%C3%ADs-de-medeiros-moreira-59a28188/)
+- **LinkedIn:** [Thaís de Medeiros Moreira](https://www.linkedin.com/in/tha%C3%ADs-moreira-59a28188/)
 
